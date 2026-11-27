@@ -1,0 +1,28 @@
+.container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: lightgreen;
+    padding: 10px; 
+}
+
+.container div {
+    background-color: lightgoldenrodyellow;
+    border: 1px solid black;
+    padding: 20px;
+    font-size: 30px;
+    text-align: left;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style-type : none;
+    padding : 0px;
+    margin : 0px;
+}
+
+p {
+    font-size: 10px;
+}
